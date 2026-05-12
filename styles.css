@@ -27,6 +27,16 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.construction-banner {
+  background: #fff4d6;
+  color: #5a4500;
+  border-bottom: 1px solid color-mix(in oklab, #5a4500 20%, transparent);
+  text-align: center;
+  padding: 0.65rem 1rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
 .hero {
   text-align: center;
   padding: 5rem 1.5rem 3.5rem;
